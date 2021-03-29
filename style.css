@@ -1,0 +1,18 @@
+#body {
+  background-color: #cfafaf;
+}
+
+#titre {
+  text-align: center;
+  color: #704343;
+  border-style: solid;
+  border-color: #704343;
+}
+
+.style {
+  border-style: solid;
+  border-color: #704343;
+  border-radius: 15px;
+  padding: 5px;
+  margin: 5px;
+}
